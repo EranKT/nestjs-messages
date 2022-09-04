@@ -1,3 +1,5 @@
+### This file is using the REST Client extension for mock requests
+
 ### List all messages
 
 GET http://localhost:3000/messages
